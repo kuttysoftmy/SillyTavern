@@ -61,7 +61,7 @@
         "ipaddr.js": "^2.2.0",
         "is-docker": "^3.0.0",
         "localforage": "^1.10.0",
-        "lodash": "^4.17.21",
+        "lodash": "^4.17.23",
         "mime-types": "^3.0.1",
         "moment": "^2.30.1",
         "morphdom": "^2.7.5",
